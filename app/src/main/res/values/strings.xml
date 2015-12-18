@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cellular Connectivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_chart">Show Chart</string>
+</resources>
